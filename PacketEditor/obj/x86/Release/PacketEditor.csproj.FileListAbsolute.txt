@@ -1,0 +1,45 @@
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csprojAssemblyReference.cache
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.GenerateResource.cache
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.CoreCompileInputs.cache
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.CopyComplete
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Users\kdieg\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
